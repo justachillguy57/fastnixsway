@@ -56,15 +56,7 @@
   #
   #  /etc/profiles/per-user/ghost/etc/profile.d/hm-session-vars.sh
   #
-  programs.gh = {
-	settings = {
-		aliases = {
-			"al" = "auth login";
-			"as" = "auth status";
-		};
-
-	};
-  };
+  
   home.sessionVariables = {
     # EDITOR = "emacs";
   };
